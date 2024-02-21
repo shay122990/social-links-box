@@ -1,0 +1,45 @@
+
+body{
+    background-color: hsl(0, 0%, 8%);
+    color: antiquewhite;
+    font-family: "Inter", sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+    background-color:hsl(0, 0%, 12%);
+    width: 320px;
+    margin-left: 40%;
+    padding: 30px 20px;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+}
+h1{
+    font-size: 20px;
+    font-weight: 300;
+}
+span{
+   font-size: 16px;
+   font-weight: 600;
+}
+p{
+    font-size: 14px;
+}
+.social-link{
+    background-color:hsl(0, 0%, 20%);
+    text-decoration: none;
+    border-radius: 2px;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    width: 80%;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
