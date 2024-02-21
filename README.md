@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://shay122990.github.io/socil-links-box/](https://shay122990.github.io/socil-links-box/)
+- Live Site URL: [https://shay122990.github.io/social-links-box/](https://shay122990.github.io/social-links-box/)
 
 ## My process
 1. Inspect , identify and count elements on the challenge image.
