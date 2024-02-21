@@ -22,7 +22,7 @@ A challenge to create a similar design with pure HTML and CSS. You can use this 
 
 Users should be able to:
 
-- See hover and focus states for all interactive elements on the page. Links would lead to the social link in a new window. 
+- See hover and focus states for all interactive elements on the page. Links would lead to the social link in a new window. `
 - The content should be responponsive and consistent with different viewport sizes.
 
 ### Screenshot

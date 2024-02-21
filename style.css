@@ -14,25 +14,25 @@ body{
     width: 80%;
     margin: 150px auto;
     background-color:hsl(0, 0%, 12%);
-    padding: 40px 4px;
-    border-radius: 10px;
+    padding: 40px 0;
+    border-radius: 15px;
 }
 img{
     border-radius: 50%;
-    width: 100px;
+    width: 80px;
 }
 h1{
     font-size: 24px;
-    font-weight: 500;
-    margin: 18px 0 8px 0;
+    font-weight: 400;
+    margin: 20px 0 10px 0;
 }
 span{
     color:  hsl(75, 94%, 57%);
-   font-size: 16px;
+   font-size: 14px;
    font-weight: 600;
 }
 p{
-    margin: 20px 0 8px 0;
+    margin: 28px 0 10px 0;
     font-size: 14px;
     letter-spacing: 0.4px;
 }
@@ -40,11 +40,11 @@ p{
     background-color:hsl(0, 0%, 20%);
     text-decoration: none;
     border-radius: 8px;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 600;
-    padding: 10px 20px;
+    padding: 14px 20px;
     margin-top: 14px;
-    width: 70%;
+    width: 68%;
     text-align: center;
     color: hsl(0, 0%, 100%);
 }
